@@ -5,5 +5,6 @@
  */
 let a = 1;
 const fun = (a) => {
+  a = 2;
   return a + 1;
 };
