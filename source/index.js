@@ -3,6 +3,7 @@
  * @date          2024-04-13 15:07:07
  * Copyright © YourCompanyName All rights reserved
  */
-const fun = () => {
-  console.log("77777");
+let a = 1;
+const fun = (a) => {
+  return a + 1;
 };
