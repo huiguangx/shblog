@@ -4,6 +4,6 @@
  * Copyright © YourCompanyName All rights reserved
  */
 let a = 1;
-const fun = (a) => {
-  return a + 1;
+const fn1 = () => {
+  return a * 2;
 };
