@@ -5,5 +5,6 @@
  */
 let a = 1;
 const fn1 = () => {
+  console.log(666);
   return a * 2;
 };
