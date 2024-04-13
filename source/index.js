@@ -6,6 +6,5 @@
 let a = 1;
 const fn1 = () => {
   console.log(666);
-  a = 6
   return a * 2;
 };
