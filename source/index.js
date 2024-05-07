@@ -7,4 +7,4 @@ let a = 1;
 const fun = (a) => {
   return a + 1;
 };
-console.log("冲突13333333333333333");
+console.log("冲突1333333333333333388888888888");
