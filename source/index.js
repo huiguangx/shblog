@@ -7,3 +7,4 @@ let a = 1;
 const fun = (a) => {
   return a + 1;
 };
+console.log("冲突");
